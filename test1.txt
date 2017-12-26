@@ -1,0 +1,12 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 966D-9FA4
+
+ Directory of C:\Java\Jenkin Folder
+
+26/12/2017  23:55    <DIR>          .
+26/12/2017  23:55    <DIR>          ..
+26/12/2017  23:18               456 JenkinsFirstProgram.class
+26/12/2017  23:17               246 JenkinsFirstProgram.java
+26/12/2017  23:55                 0 test1.txt
+               3 File(s)            702 bytes
+               2 Dir(s)  83,655,446,528 bytes free
