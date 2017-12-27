@@ -3,6 +3,6 @@ public class JenkinsFirstProgram {
 * This will print 'Hello World' as the output
 */
 public static void main(String []args) {
-System.out.println("Hello World of Jenkins 2"); // prints Hello World
+System.out.println("Hello World of Jenkins 3"); // prints Hello World
 }
 }
